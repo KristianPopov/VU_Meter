@@ -5,6 +5,7 @@ They can display one or multiple audio channels (mono or stereo VU meters).
 
 2. About the project
 Video from the project can be found here:
+https://www.youtube.com/watch?v=QyQhYzr_F-o
 
 The current device is a stereo VU meter with 5 LEDs per channel based on Metaboard project 
 (see https://metalab.at/wiki/Metaboard for more information).
